@@ -55,4 +55,5 @@ After successful installation of the dependencies use the following dev script:
 That's it! You'll now have the localhost address of the site. Copy that and paste it in the browser, use the website and raise some campaigns!
 
 
+![image](https://user-images.githubusercontent.com/109022906/229276604-4b98bb0b-8427-40dc-baaa-0ca05575cf1f.png)
 
